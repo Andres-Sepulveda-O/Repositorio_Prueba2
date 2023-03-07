@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-23T17:29:32 CST" name="Default suite" finished-at="2022-11-23T17:29:46 CST" duration-ms="13612">
+    <groups>
+    </groups>
+    <test started-at="2022-11-23T17:29:32 CST" name="Default test" finished-at="2022-11-23T17:29:46 CST" duration-ms="13612">
+      <class name="ejerciciosSelenium.Ejercicio_1">
+        <test-method signature="invocarNavegador()[pri:0, instance:ejerciciosSelenium.Ejercicio_1@550dbc7a]" started-at="2022-11-23T17:29:32 CST" name="invocarNavegador" finished-at="2022-11-23T17:29:37 CST" duration-ms="5168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invocarNavegador -->
+        <test-method signature="compararTitulos()[pri:1, instance:ejerciciosSelenium.Ejercicio_1@550dbc7a]" started-at="2022-11-23T17:29:37 CST" name="compararTitulos" finished-at="2022-11-23T17:29:37 CST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compararTitulos -->
+        <test-method signature="comandosDeNavegacion()[pri:2, instance:ejerciciosSelenium.Ejercicio_1@550dbc7a]" started-at="2022-11-23T17:29:37 CST" name="comandosDeNavegacion" finished-at="2022-11-23T17:29:46 CST" duration-ms="8099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comandosDeNavegacion -->
+        <test-method signature="cerrarNavegador()[pri:3, instance:ejerciciosSelenium.Ejercicio_1@550dbc7a]" started-at="2022-11-23T17:29:46 CST" name="cerrarNavegador" finished-at="2022-11-23T17:29:46 CST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarNavegador -->
+      </class> <!-- ejerciciosSelenium.Ejercicio_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

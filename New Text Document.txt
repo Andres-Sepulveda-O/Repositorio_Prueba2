@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Annotations">
+  
+        <parameter name="username"  value="juanito_tester_1927@outlook.com" />
+        <parameter name="password"  value="Password12345" />
+        
+        <classes>
+            <class name="Parameter_annotation"/>
+        </classes>
+  
+  </test> <!-- Annotations -->
+</suite> <!-- Suite -->
