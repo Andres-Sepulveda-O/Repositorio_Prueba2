@@ -17,7 +17,8 @@ public class Ejercicio_1 {
 	 * 7. Navegar de regreso a la pagina de QA Tech Hub
 	 * 8. Navegar de regreso a facebook
 	 * 9. Recargar la pagina
-	 * 10. Cerrar el navegador*/
+	 * 10. Cerrar el navegador
+	 * 11 . Mensaje de prueba*/
 
 		public static WebDriver driver;
 
